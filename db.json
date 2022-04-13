@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Tushar Giri",
+      "email": "inazuma928@gmail.com"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
